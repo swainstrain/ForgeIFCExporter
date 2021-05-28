@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  
+  <AddIn Type="DBApplication">
+    <Name>IFCExport</Name>
+    <Assembly>IFCExport.dll</Assembly>
+    <AddInId>
+      1800BA0F-C438-4CE7-9F46-6911D7F3FF03
+    </AddInId>
+    <FullClassName>IFCExport.Commands</FullClassName>
+    <Text>IFCExport</Text>
+    <Description>IFCExport</Description>
+    <VendorId>Letizia</VendorId>
+    <VendorDescription>Letizia</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  
+  
+</RevitAddIns>

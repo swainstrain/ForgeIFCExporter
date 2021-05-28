@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ApplicationPackage Name="IFCExport" Description="IFCExport" Author="learnforge.autodesk.io">
+  <CompanyDetails Name="Autodesk, Inc" Url="http://learnforge.autodesk.io" Email="forge.help@autodesk.com"/>
+  <Components Description="IFCExport">
+    <RuntimeRequirements SeriesMax="R2021" SeriesMin="R2018" Platform="Revit" OS="Win64"/>
+    <ComponentEntry LoadOnRevitStartup="True" LoadOnCommandInvocation="False" AppDescription="IFCExport" ModuleName="./Contents/IFCExport.addin" Version="1.0.0" AppName="IFCExport"/>
+  </Components>
+</ApplicationPackage>
